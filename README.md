@@ -4,7 +4,7 @@ Information regarding the setup, configuration, and customization of my Pop OS i
 ## Essential Programs
 
 ## Relevant Dotfiles
- - [My Dotfile Repo](https://github.com/rvbcldud/dotfiles){:target="_blank"}
+ - <a href="https://github.com/rvbcldud/dotfiles" target="_blank">My Dotfiles Repository</a>
 
 ## Themes for Each Application
 
