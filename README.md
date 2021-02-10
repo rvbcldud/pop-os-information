@@ -4,6 +4,7 @@ Information regarding the setup, configuration, and customization of my Pop OS i
 ## Essential Programs
 
 ## Relevant Dotfiles
+ - [My Dotfile Repo](https://github.com/rvbcldud/dotfiles)
 
 ## Themes for Each Application
 
